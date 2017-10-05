@@ -4,8 +4,8 @@ import base64
 import requests
 
 SITE="http://natas28.natas.labs.overthewire.org/"
-USER="natas28"
-PWORD="JWwR438wkgTsNKBbcJoowyysdM82YjeF"
+USER=""
+PWORD=""
 USER_AGENT="Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8"
 
 FILE_DICT="dictionary_natas28.txt"
